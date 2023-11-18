@@ -6,7 +6,7 @@ from sklearn.tree import DecisionTreeClassifier
 from sklearn.metrics import accuracy_score
 
 # Load the sensor data from the CSV file
-data = pd.read_csv('sensor_data.csv')
+data = pd.read_csv('machine.csv')
 
 # Feature selection: Assuming all columns are relevant for simplicity
 selected_features = data.columns[:-1]
