@@ -19,4 +19,3 @@
 
 - The script concludes by simulating integration into the manufacturing process. It checks for updates, monitors temperature, processing speed, and power usage. It also prints a warning if an equipment failure is predicted. In a real-world scenario, this integration would involve setting up a system for real-time monitoring and scheduling maintenance based on the model predictions.
 
-The provided code snippet incorporates these steps, offering a starting point for developing a predictive maintenance model for manufacturing equipment. Remember to adapt the code based on your specific data and requirements.
