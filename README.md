@@ -1,4 +1,4 @@
-### 1. Machine Learning Algorithm:
+### 1. Machine Learning Algorithm
 
 **Decision Tree:**
 - Reasoning: Decision trees are suitable for this task due to their interpretability, ability to handle both numerical and categorical data, and capacity to capture complex relationships in sensor data. Decision trees provide a transparent view of the decision-making process, which is valuable in understanding the factors contributing to equipment failures.
